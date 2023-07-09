@@ -12,7 +12,7 @@ My name is Agustin Vilariño, i am software developer from  📌  Buenos Aires, 
 
 📐  Backend - Design  📐
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/backend-java-formula1/master/images/umlCorreCaminos.png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/backend-java-formula1/master/images/umlCorrecaminos.png)
 
 
 
